@@ -1,0 +1,4 @@
+## Discussão sobre resultado da simulação 9
+
+* Em maquinários industriais reais (como motores elétricos, turbinas, compressores e caixas de engrenagens), cada componente mecânico defeituoso gera vibrações em frequências muito específicas quando entra em contato ou sofre estresse periódico.
+* Coletar o sinal de vibração usando acelerômetros e calcular o espectro permite a realização de manutenção preditiva. É possível detectar que um rolamento ou engrenagem está falhando meses antes de que ocorra uma quebra catastrófica, simplesmente observando o surgimento e o crescimento de picos harmônicos específicos no espectro de frequências.

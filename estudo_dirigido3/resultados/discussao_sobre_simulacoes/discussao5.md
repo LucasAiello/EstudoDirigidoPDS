@@ -1,0 +1,3 @@
+## Discussão sobre resultado da simulação 5
+
+* A análise espectral facilita a separação porque o ruído é diluído ao longo do eixo das frequências, enquanto o sinal útil permanece compactado. Isso permite identificar instantaneamente a frequência principal como o pico mais alto, isolando-a visualmente ou por meio de algoritmos de filtragem (filtros passa-faixa, por exemplo) das perturbações adjacentes.
